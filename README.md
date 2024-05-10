@@ -5,7 +5,8 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Poetsen+One&pause=1000&color=6442F7&random=false&width=435&lines=Euan+just+got+started+github+give+him+a+hug)
 
 ![mystats](https://github-readme-stats.vercel.app/api?username=euuuuuuan&theme=blue-green)   
-👍 **now is learning**
+
+👍 **now is learning**   
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
