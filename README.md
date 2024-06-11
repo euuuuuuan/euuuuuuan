@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&text=Euuuuuuan's%20github&fontsize=40)
 
 ### Wellcome bro! 👋
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Poetsen+One&pause=1000&color=6442F7&random=false&width=435&lines=Euan+preparin+to+become+AI+serving+developer.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Poetsen+One&pause=1000&color=6442F7&random=false&width=435&lines=Euan+preparin+to+become+AI+serv+developer.)
 
 ## 💻 개발환경
 - <img src="https://img.shields.io/badge/Framework-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"><img src="https://img.shields.io/badge/2.7.13-515151?style=for-the-badge">
