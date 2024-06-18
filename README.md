@@ -12,13 +12,13 @@
 
 ![mystats](https://github-readme-stats.vercel.app/api?username=euuuuuuan&theme=blue-green)   
 
-👍 **Main Language**   
+🥇 **Main Language**   
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
-👍 **Sub Language**   
+🥈 **Sub Language**   
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-👍 **CO-OP Tool that I love**   
+🏅 **CO-OP Tool that I love**   
 ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
