@@ -1,12 +1,10 @@
-## euuuuuuan — AI-augmented development · agent orchestration · deterministic gates
+## Agent orchestration · deterministic gates · AI-augmented development
 
-I build code-based automation and agent-orchestrated systems — an agent platform with a fail-closed
-permission layer, local retrieval pipelines with evaluation gates, and deterministic simulations that
-replay bit-for-bit. My day job is internal IT and operations at a marketing agency, where the work I
-kept choosing was replacing manual process with code.
+**English** · [한국어](README.ko.md)
 
-**Looking for:** AI-augmented / agent-assisted development roles (Korea or remote). Not a framework
-specialist — someone who ships systems with the gates that prove they work.
+Code-based automation and agent-orchestrated systems: an agent platform with a fail-closed
+permission layer, local retrieval pipelines with evaluation gates, and deterministic simulations
+that replay bit-for-bit.
 
 Every number on this page is a measurement, not an estimate. The command that produced it lives in the
 repo it describes, and the repo re-checks it before publishing.
@@ -25,9 +23,9 @@ repo it describes, and the repo re-checks it before publishing.
 
 ---
 
-## How I work
+## How these are built
 
-The differentiator is not "I use AI". It is what I put *between* the model and the repository.
+The interesting part is not "built with AI". It is what sits *between* the model and the repository.
 
 - **Two coding agents, one deterministic referee.** [`agent-relay`](https://github.com/euuuuuuan/agent-relay-public)
   is an external driver that runs two agent CLIs against each other until a gate passes. The gate decides
@@ -39,7 +37,7 @@ The differentiator is not "I use AI". It is what I put *between* the model and t
   run when they regress ([rag-eval-demo](https://github.com/euuuuuuan/rag-eval-demo-public)).
 - **UI claims come from probes and screenshots, not from memory.** [hollowmere](https://github.com/euuuuuuan/hollowmere-public)
   ships `shot`, `relic-qa` and `mobile-qa` harnesses; fatal-funnel has 35 headless harnesses among the 40 scripts in `tools/`
-  and 4 fixed screenshot cameras. I learned this the expensive way: a tooltip that "works" can be dead
+  and 4 fixed screenshot cameras. This lesson was learned the expensive way: a tooltip that "works" can be dead
   behind one input-filter flag; a synthetic input probe catches that, reading the code does not.
 - **Assets are licence-gated before they are generated.** [assetforge](https://github.com/euuuuuuan/assetforge-public)
   refuses to generate from any model absent from its registry. Downstream, **all 27 published snapshots
@@ -89,27 +87,10 @@ Not all 27 repos — the ones that show a distinct capability.
 
 ---
 
-## Current focus / status
+## About these repos
 
-Publishing sanitized snapshots of the work above (code Apache-2.0; assets governed per-repo by a 4-tier
-`CREDITS.md`), and looking for an AI-augmented development role. Games are personal builds and vertical
-slices — playable, gated, and honestly labelled, but not commercial releases. Work done for my employer
-is not published here and appears only as anonymized outcomes.
+All 27 repos are sanitized snapshots: code under Apache-2.0, assets governed per-repo by a 4-tier
+`CREDITS.md`. Games are personal builds and vertical slices — playable, gated, and honestly
+labelled, not commercial releases.
 
-**Contact:** open an issue or discussion on any repo here, or use my GitHub profile.
-
----
-
-## 한국어
-
-마케팅 대행사에서 사내 IT·운영을 담당하면서, 수작업으로 돌아가던 절차를 코드로 바꾸는 쪽 일을 계속 골라 왔습니다.
-지금 만드는 것은 **에이전트 오케스트레이션과 코드 기반 자동화**입니다 — 권한이 기본 차단인 에이전트 플랫폼(baton,
-MCP 도구 63개), 망분리 환경을 전제로 외부 의존성 0으로 동작하는 한국어 RAG(50문항 골든셋 게이트), 시드만 있으면
-비트 단위로 동일하게 재생되는 결정론적 시뮬레이션(fatal-funnel, 30 Hz).
-
-제 방식의 핵심은 "AI를 쓴다"가 아니라 **모델과 저장소 사이에 무엇을 두는가**입니다. 코딩 에이전트 둘을 붙여 놓고
-완료 판정은 결정론적 게이트에만 맡기고(agent-relay), 모델 호출 전에 순수성·평가 게이트를 먼저 통과시키고, UI는
-기억이 아니라 스크린샷·입력 프로브로만 "된다"고 말합니다. 그리고 **측정한 수치와 추정한 수치를 스키마로 구분**해서,
-근거 없는 숫자는 애초에 게시되지 않게 만듭니다.
-
-**찾는 자리:** AI 활용 개발(바이브코딩) 직군. 국내 또는 원격. 연락은 이 GitHub의 이슈나 디스커션으로 주세요.
+**Contact:** open an issue or discussion on any repo here.
