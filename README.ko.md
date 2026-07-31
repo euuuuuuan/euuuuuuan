@@ -1,6 +1,6 @@
 ## 에이전트 오케스트레이션 · 결정론적 게이트 · AI 활용 개발
 
-[English](README.md) · **한국어**
+[English](README.md) · **한국어** · [日本語](README.ja.md) · [简体中文](README.zh-CN.md) · [繁體中文](README.zh-TW.md) · [Español](README.es.md) · [Português (BR)](README.pt-BR.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [Русский](README.ru.md) · [Italiano](README.it.md) · [Bahasa Indonesia](README.id.md) · [Türkçe](README.tr.md)
 
 코드 기반 자동화와 에이전트 오케스트레이션 시스템: 권한이 기본 차단(fail-closed)인 에이전트
 플랫폼, 평가 게이트가 달린 로컬 검색 파이프라인, 그리고 시드만 있으면 비트 단위로 동일하게

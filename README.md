@@ -1,6 +1,6 @@
 ## Agent orchestration · deterministic gates · AI-augmented development
 
-**English** · [한국어](README.ko.md)
+**English** · [한국어](README.ko.md) · [日本語](README.ja.md) · [简体中文](README.zh-CN.md) · [繁體中文](README.zh-TW.md) · [Español](README.es.md) · [Português (BR)](README.pt-BR.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [Русский](README.ru.md) · [Italiano](README.it.md) · [Bahasa Indonesia](README.id.md) · [Türkçe](README.tr.md)
 
 Code-based automation and agent-orchestrated systems: an agent platform with a fail-closed
 permission layer, local retrieval pipelines with evaluation gates, and deterministic simulations
